@@ -51,6 +51,6 @@ function alea($max, $min) {
 
         return $test;
     }
-}
+};
 
 alea(200, 0);
